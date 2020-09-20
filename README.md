@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jack Carr's Github Page
 
 You can use the [editor on GitHub](https://github.com/jackthomascarr/jackthomascarr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
